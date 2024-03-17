@@ -50,3 +50,9 @@ The implementation includes the following components:
 - Wikipedia contributors. "HC-128." *Wikipedia, The Free Encyclopedia.* [Link](https://en.wikipedia.org/wiki/HC-128)
 
 For more details on the HC-128 algorithm and its implementation, refer to the provided code and the referenced materials.
+
+
+### Terminal result
+
+This is an example on how the terminal returns, given that no error occurs.
+![HC-128 Algorithm](exampleresult.png)
